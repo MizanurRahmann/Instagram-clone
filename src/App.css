@@ -39,3 +39,19 @@
 .post__avatar{
     margin-right: 10px;
 }
+
+/* SIGNUP */
+.app__signup{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    margin-bottom: 20px;
+}
+.error__message{
+    color: red;
+    margin: 5px 0;
+}
+.btn__signup{
+    
+}
